@@ -13,6 +13,12 @@ CRUD is basic requirement for dynamic websites.
 ![Edit](https://user-images.githubusercontent.com/7123198/188938512-84c06bd4-5376-426c-8f30-31097f3138c5.png)
 ![Database](https://user-images.githubusercontent.com/7123198/188938566-3b5abec2-3700-4066-b0cc-c805119fa4da.png)
 
+## Codes
+  
+![Screenshot (71)](https://user-images.githubusercontent.com/7123198/188981093-9efc45af-1aa6-4652-a410-a341f6611377.png)
+![Screenshot (72)](https://user-images.githubusercontent.com/7123198/188981097-64043124-7aaf-46f0-8add-8aae90c4b77f.png)
+![Screenshot (73)](https://user-images.githubusercontent.com/7123198/188981098-6fdd4f3e-74c7-4753-a3c6-5e5142fc4b0d.png)
+
 ## Authors
 
 - [@rajkgrg2](https://github.com/rajkgrg2)

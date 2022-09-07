@@ -5,7 +5,13 @@ This is CRUD (CREATE,READ, UPDATE, DELETE) operations by using MySQL database.
 CRUD is basic requirement for dynamic websites.
 
 
+## Demo
 
+
+![Createnew](https://user-images.githubusercontent.com/7123198/188938178-9dd331cd-826e-418f-8cac-da9217ab188b.png)
+![Read](https://user-images.githubusercontent.com/7123198/188938307-601de8e4-c33b-499c-9488-02bd9dd7b402.png)
+![Edit](https://user-images.githubusercontent.com/7123198/188938512-84c06bd4-5376-426c-8f30-31097f3138c5.png)
+![Database](https://user-images.githubusercontent.com/7123198/188938566-3b5abec2-3700-4066-b0cc-c805119fa4da.png)
 
 ## Authors
 
